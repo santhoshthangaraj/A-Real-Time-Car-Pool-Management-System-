@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KarsPoolingApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Button</string>
+    
+<string-array name="startpoint">
+        <item >UT Drive</item>
+        <item >UT North</item>
+        <item >Cameron Blvd</item>
+        <item >North Tryon Street</item>
+        <item >IKEA store</item>
+        <item >Wallmart</item>
+    </string-array>
+
+<string-array name="endpoint">
+         <item >UT Drive</item>
+        <item >UT North</item>
+        <item >Cameron Blvd</item>
+        <item >North Tryon Street</item>
+        <item >IKEA store</item>
+        <item >Wallmart</item>
+    </string-array>
+    
+
+<string-array name="route">
+        <item >route1</item>
+        <item >route2</item>
+        <item >route3</item>
+        <item >route4</item>
+        <item >route5</item>
+        <item >route6</item>
+    </string-array>
+    <string-array name="time">
+        <item >1PM</item>
+        <item >2PM</item>
+        <item >3PM</item>
+        <item >4PM</item>
+        <item >5PM</item>
+        <item >6PM</item>
+    </string-array>
+</resources>
