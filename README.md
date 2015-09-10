@@ -1,4 +1,4 @@
-# A-Real-Time-Car-Pool-Management-System-
+# A-Real-Time-Car-Pool-Management-System -
 A Real Time Car Pool Management System Android App - Providing car pool service to the two different kinds of users – ‘The Car Owner’ and ‘The Hitchhiker’. 
 
 Car Owner:
