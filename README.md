@@ -1,4 +1,5 @@
 # A-Real-Time-Car-Pool-Management-System -
+Project Overview:
 A Real Time Car Pool Management System Android App - Providing car pool service to the two different kinds of users – ‘The Car Owner’ and ‘The Hitchhiker’. 
 
 Car Owner:
@@ -18,5 +19,12 @@ Hitchhiker can cancel the trip
 
 Token:
 Token Generation feature is specifically going to be an authenticity measure of the hitchhiker as well as a safety measure for not only the car owner but also the co-hitchhikers in the car.
+
+Roles:
+
+•	Developed a ride sharing app using Java and Google Map API for real time tracking feature, designed UI, database and coded PHP scripts for the connection.
+
+•	Followed the SDLC process during app development and was able to achieve the stated milestones.
+
 
 PHP scripts are used for the connections.
